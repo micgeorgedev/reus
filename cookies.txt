@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.uogplc.com	TRUE	/	FALSE	1999999999	__cf_bm	NVE2E1UbqeGDsnlVLlWG2HJFxMeHes7ry6Cn6bSi2iI-1757036732-1.0.1.1-EluE0Wz1itn.0TuClMBDxICkGMvB5W5EqyQoxwgfEyPgcDFeVQsGucMLv7gBu1aelLkQCs5otH_t4mq_QUdx5orM30QM9z9YKE.vAyFhHI8
+uogplc.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.uogplc.com	TRUE	/	FALSE	1999999999	wpdef_lockout_102_90_79_235	1
+

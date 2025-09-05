@@ -1,0 +1,123 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Sep 2025 02:45:29 at https://www.uogplc.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.uogplc.com/ -O1 "C:\My Web Sites\https___www.uogplc.com_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:46:52	Error: 	"Bad Request" (400) at link https://www.uogplc.com/wp-admin/admin-ajax.php (from https://www.uogplc.com/)
+02:46:52	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.uogplc.com/wp-admin/admin-post.php (from https://www.uogplc.com/)
+02:47:22	Error: 	"Forbidden" (403) at link https://www.uogplc.com/xmlrpc.php?rsd (from https://www.uogplc.com/)
+02:53:27	Warning: 	Moved Permanently for https://www.uogplc.com/operations/egypt/
+02:53:27	Warning: 	File has moved from https://www.uogplc.com/operations/egypt/ to https://www.uogplc.com/egyptian-optimism/
+02:53:40	Error: 	"Not Found" (404) at link https://www.uogplc.com/cdn-cgi/l/email-protection (from https://www.uogplc.com/)
+02:53:40	Warning: 	Moved Permanently for https://www.uogplc.com/about-us/our-strategy/
+02:53:40	Warning: 	File has moved from https://www.uogplc.com/about-us/our-strategy/ to https://www.uogplc.com/our-strategy/
+02:53:40	Error: 	"Not Found" (404) at link https://www.uogplc.com/operations/uk-central-north-sea/ (from https://www.uogplc.com/)
+02:53:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.uogplc.com/wp-admin/admin-post.php (from https://www.uogplc.com/)
+02:53:45	Error: 	"Not Found" (404) at link https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/images/backgrounds/divider-icon.svg (from https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.15.1)
+02:53:45	Error: 	"Not Found" (404) at link https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/images/backgrounds/list-bullet.svg (from https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.15.1)
+02:53:45	Error: 	"Not Found" (404) at link https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/assets/images/backgrounds/form-select.svg (from https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.15.1)
+02:53:45	Error: 	"Not Found" (404) at link https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/images/backgrounds/form-datalist.svg (from https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.15.1)
+02:53:45	Error: 	"Not Found" (404) at link https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/assets/images/backgrounds/form-radio.svg (from https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.15.1)
+02:53:45	Error: 	"Not Found" (404) at link https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/assets/images/backgrounds/form-checkbox.svg (from https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.15.1)
+02:53:45	Error: 	"Not Found" (404) at link https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/assets/images/backgrounds/form-checkbox-indeterminate.svg (from https://www.uogplc.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.15.1)
+02:53:45	Error: 	"Not Found" (404) at link www.uogplc.com/wp-content/plugins/theplus_elementor_addon/assets/css/plugins/theplus_elementor_addon/assets/images/team-mask.png (from www.uogplc.com/wp-content/plugins/theplus_elementor_addon/assets/css/main/image-factory/plus-image-factory.min.css?ver=1755614829)
+02:53:48	Warning: 	Moved Permanently for https://www.uogplc.com/?p=4137
+02:53:48	Warning: 	File has moved from https://www.uogplc.com/?p=4137 to https://www.uogplc.com/about-us/business-model/
+02:53:48	Error: 	"Not Found" (404) at link https://www.uogplc.com/?page_id=3474 (from https://www.uogplc.com/about-us/business-model/)
+02:53:49	Warning: 	Moved Permanently for https://www.uogplc.com/?p=4107
+02:53:49	Warning: 	File has moved from https://www.uogplc.com/?p=4107 to https://www.uogplc.com/our-strategy/
+02:53:49	Warning: 	Moved Permanently for https://www.uogplc.com/?p=3853
+02:53:49	Warning: 	File has moved from https://www.uogplc.com/?p=3853 to https://www.uogplc.com/our-team/
+02:53:49	Warning: 	Moved Permanently for https://www.uogplc.com/?p=3591
+02:53:49	Warning: 	File has moved from https://www.uogplc.com/?p=3591 to https://www.uogplc.com/about-us/our-history/
+02:53:50	Warning: 	Moved Permanently for https://www.uogplc.com/?p=3698
+02:53:50	Warning: 	File has moved from https://www.uogplc.com/?p=3698 to https://www.uogplc.com/careers/
+02:53:50	Warning: 	Moved Permanently for https://www.uogplc.com/?p=5260
+02:53:50	Warning: 	File has moved from https://www.uogplc.com/?p=5260 to https://www.uogplc.com/uk-onshore/
+02:53:50	Warning: 	Moved Permanently for https://www.uogplc.com/?p=5214
+02:53:50	Warning: 	File has moved from https://www.uogplc.com/?p=5214 to https://www.uogplc.com/operations/jamaica/
+02:53:50	Error: 	"Not Found" (404) at link https://www.uogplc.com/?page_id=5081 (from https://www.uogplc.com/operations/jamaica/)
+02:53:51	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/4517 (from https://www.uogplc.com/responsibility/working-responsibly/)
+02:53:51	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=4517 (from https://www.uogplc.com/responsibility/working-responsibly/)
+02:53:51	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?page_id=3978 (from https://www.uogplc.com/responsibility/working-responsibly/)
+02:53:51	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/4385 (from https://www.uogplc.com/responsibility/people-communities/)
+02:53:51	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=4385 (from https://www.uogplc.com/responsibility/people-communities/)
+02:53:56	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/4478 (from https://www.uogplc.com/responsibility/health-safety/)
+02:53:56	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.uogplc.com/?p=4478 (from https://www.uogplc.com/responsibility/health-safety/)
+02:53:57	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/3976 (from https://www.uogplc.com/responsibility/environment/)
+02:53:57	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=3976 (from https://www.uogplc.com/responsibility/environment/)
+02:53:58	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/4392 (from https://www.uogplc.com/responsibility/values-governance/)
+02:53:58	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=4392 (from https://www.uogplc.com/responsibility/values-governance/)
+02:53:58	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/5387 (from https://www.uogplc.com/investors/investment-case/)
+02:53:58	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=5387 (from https://www.uogplc.com/investors/investment-case/)
+02:53:58	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/ (from https://www.uogplc.com/investors/investment-case/)
+02:53:58	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/webcast/page/2/ (from https://www.uogplc.com/investors/webcast/)
+02:54:07	Error: 	"Forbidden" (403) at link https://www.uogplc.com/14th-may-united-oil-gas-interview-with-jamaica-country-manager-herona-thompson/ (from https://www.uogplc.com/investors/webcast/)
+02:54:12	Error: 	"Forbidden" (403) at link https://www.uogplc.com/27-april-2023-united-oil-gas-2022-fy-results-webinar/ (from https://www.uogplc.com/investors/webcast/)
+02:54:12	Error: 	"Forbidden" (403) at link https://www.uogplc.com/26-jan-2023-united-oil-gas-trading-statement-webinar/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/26-april-shareholder-call-full-year-31-dec-2021-results/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/united-oil-and-gas-boss-predicts-more-excitement-ahead-after-run-of-drill-bit-success/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/traders-cafe-brian-larkin/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/webcast/page/3/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/webcast/page/4/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/webcast/page/5/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/webcast/page/6/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/webcast/page/7/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/webcast/page/8/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/webcast/page/9/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/webcast/page/10/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/webcast/page/11/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/news/ (from https://www.uogplc.com/investors/webcast/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/4728 (from https://www.uogplc.com/investors/press-releases-feed/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=4728 (from https://www.uogplc.com/investors/press-releases-feed/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/5313 (from https://www.uogplc.com/investors/reports-cpr/)
+02:54:17	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=5313 (from https://www.uogplc.com/investors/reports-cpr/)
+02:54:18	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/6007 (from https://www.uogplc.com/investors/presentations/)
+02:54:18	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=6007 (from https://www.uogplc.com/investors/presentations/)
+02:54:18	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/4742 (from https://www.uogplc.com/investors/share-price-tools/)
+02:54:18	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=4742 (from https://www.uogplc.com/investors/share-price-tools/)
+02:54:18	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/5335 (from https://www.uogplc.com/investors/aim-rule-26/)
+02:54:18	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=5335 (from https://www.uogplc.com/investors/aim-rule-26/)
+02:54:18	Error: 	"Error when decompressing" (-1) at link https://www.uogplc.com/uk-onshore (from https://www.uogplc.com/investors/aim-rule-26/)
+02:54:18	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/corporate-documents/ (from https://www.uogplc.com/investors/aim-rule-26/)
+02:54:18	Error: 	"Forbidden" (403) at link https://www.uogplc.com/investors/corporate-governance/ (from https://www.uogplc.com/investors/aim-rule-26/)
+02:54:18	Error: 	"Forbidden" (403) at link https://www.uogplc.com/about-us/our-team/ (from https://www.uogplc.com/investors/aim-rule-26/)
+02:54:18	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/4779 (from https://www.uogplc.com/investors/major-shareholders/)
+02:54:18	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=4779 (from https://www.uogplc.com/investors/major-shareholders/)
+02:54:19	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/5380 (from https://www.uogplc.com/investors/analyst-coverage/)
+02:54:19	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=5380 (from https://www.uogplc.com/investors/analyst-coverage/)
+02:54:19	Error: 	"Forbidden" (403) at link https://www.uogplc.com/disclaimer-3/ (from https://www.uogplc.com/investors/analyst-coverage/)
+02:54:19	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/4777 (from https://www.uogplc.com/investors/email-alerts/)
+02:54:19	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=4777 (from https://www.uogplc.com/investors/email-alerts/)
+02:54:19	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/5588 (from https://www.uogplc.com/investors/advisers-registrars/)
+02:54:19	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=5588 (from https://www.uogplc.com/investors/advisers-registrars/)
+02:54:19	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/6084 (from https://www.uogplc.com/investors/contact/)
+02:54:19	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=6084 (from https://www.uogplc.com/investors/contact/)
+02:54:19	Error: 	"Forbidden" (403) at link https://www.uogplc.com/egyptian-optimism/ (from https://www.uogplc.com/operations/egypt/)
+02:54:20	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/6932 (from https://www.uogplc.com/policy-statements/)
+02:54:20	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=6932 (from https://www.uogplc.com/policy-statements/)
+02:54:20	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/7139 (from https://www.uogplc.com/investors/newsletter/)
+02:54:20	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=7139 (from https://www.uogplc.com/investors/newsletter/)
+02:54:20	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/pages/5658 (from https://www.uogplc.com/privacy-policy-2/)
+02:54:20	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=5658 (from https://www.uogplc.com/privacy-policy-2/)
+02:54:20	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-admin/admin-post.php (from https://www.uogplc.com/)
+02:54:21	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=4478 (from https://www.uogplc.com/responsibility/health-safety/)
+02:54:24	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/posts/7353 (from https://www.uogplc.com/uog-ceo-brian-larkin-interview-with-charles-archer/)
+02:54:24	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=7353 (from https://www.uogplc.com/uog-ceo-brian-larkin-interview-with-charles-archer/)
+02:54:25	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/posts/7148 (from https://www.uogplc.com/13th-june-united-oil-gas-video-of-presentation-at-jamaica-investor-evening/)
+02:54:25	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=7148 (from https://www.uogplc.com/13th-june-united-oil-gas-video-of-presentation-at-jamaica-investor-evening/)
+02:54:25	Error: 	"Forbidden" (403) at link https://www.uogplc.com/category/uncategorised/ (from https://www.uogplc.com/13th-june-united-oil-gas-video-of-presentation-at-jamaica-investor-evening/)
+02:54:25	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/posts/7085 (from https://www.uogplc.com/28th-september-united-oil-gas-half-year-results-2023-webinar/)
+02:54:25	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=7085 (from https://www.uogplc.com/28th-september-united-oil-gas-half-year-results-2023-webinar/)
+02:54:26	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/posts/6971 (from https://www.uogplc.com/27-july-2022-united-oil-gas-trading-operations-update-webinar/)
+02:54:26	Error: 	"Forbidden" (403) at link https://www.uogplc.com/?p=6971 (from https://www.uogplc.com/27-july-2022-united-oil-gas-trading-operations-update-webinar/)
+02:54:26	Error: 	"Forbidden" (403) at link https://www.uogplc.com/category/webinar/feed/ (from https://www.uogplc.com/category/webinar/)
+02:54:26	Error: 	"Forbidden" (403) at link https://www.uogplc.com/wp-json/wp/v2/categories/50 (from https://www.uogplc.com/category/webinar/)
+02:54:26	Error: 	"Forbidden" (403) at link https://www.uogplc.com/trading-statement-webinar/ (from https://www.uogplc.com/category/webinar/)
+02:54:27	Error: 	"Forbidden" (403) at link https://www.uogplc.com/26-april-shareholder-call-full-year-31-dec-2020-results/ (from https://www.uogplc.com/category/webinar/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 58 seconds : 871 links scanned, 767 files written (252378509 bytes overall) [241556735 bytes received at 448990 bytes/sec], 16140598 bytes transferred using HTTP compression in 603 files, ratio 22%, 8.9 requests per connection
+(91 errors, 21 warnings, 0 messages)
